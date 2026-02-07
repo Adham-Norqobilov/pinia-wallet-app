@@ -17,6 +17,7 @@
 </script>
 <style>
 .box {
+    display: inline-block;
     padding: 10px 10px 10px 20px;
     border: solid 1px black;
     border-radius: 10px;

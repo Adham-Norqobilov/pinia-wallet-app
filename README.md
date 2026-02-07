@@ -1,38 +1,27 @@
-# my-project
+# 💰 Smart Bank App (Pinia Wallet)
 
-This template should help get you started developing with Vue 3 in Vite.
+Bu Vue 3 va Pinia yordamida yaratilgan shaxsiy hamyon ilovasi. Foydalanuvchilar o'z balanslarini boshqarishi va barcha tranzaksiyalarni kuzatib borishi mumkin.
 
-## Recommended IDE Setup
+## ✨ Xususiyatlari
+* **Balans nazorati:** Hisobdagi pulni real vaqtda ko'rib turish.
+* **Depozit va Yechib olish:** Pul qo'shish va ayirish funksiyalari.
+* **Tranzaksiyalar tarixi:** Amallar tarixini turli ranglarda (yashil/qizil) ko'rsatish.
+* **Aqlli ogohlantirish:** Mablag' kam qolganda ogohlantirish berish.
+* **Reset funksiyasi:** Bitta tugma bilan barcha ma'lumotlarni tozalash.
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## 🚀 Texnologiyalar
+* **Vue 3** (Composition API)
+* **Pinia** (State Management)
+* **Vite** (Build tool)
+* **CSS3** (Dinamik stillash)
 
-## Recommended Browser Setup
+## 🛠 O'rnatish
+1. Loyihani yuklab oling (clone):
+   `git clone [loyiha-linki]`
+2. Kutubxonalarni o'rnating:
+   `npm install`
+3. Loyihani ishga tushiring:
+   `npm run dev`
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+## 🔗 Live Demo
+[Bu yerga Netlify-dan olgan linkni qo'ying]
