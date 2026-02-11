@@ -9,6 +9,7 @@ const router = createRouter({
         {path: "/posts/:id", component: () => import('@/pages/PostPage.vue')},
         { path: '/animals', component: AnimalCollection },
         { path: '/food', component: FoodItems },
+        { path: '/todo', component: () => import('@/pages/TodoListPage.vue')}
     ]
 });
 
